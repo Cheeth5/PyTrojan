@@ -13,39 +13,35 @@ Key Features
 Installation
 
     Clone the Repository:
-
-    sh
-
-git clone https://github.com/yourusername/google-login-simulator.git
-cd google-login-simulator
+    git clone https://github.com/yourusername/google-login-simulator.git
+    cd google-login-simulator
 
 Set Up a Virtual Environment:
 
-sh
-
-python3 -m venv myenv
-source myenv/bin/activate
+    python3 -m venv myenv
+    source myenv/bin/activate
 
 Install Dependencies:
 
-sh
+
 
     pip install -r requirements.txt
 
 Usage
 
-    Run the Application:
+Run the Application:
 
-    sh
 
     python main.py
 
-    Enter Credentials:
-        Input your email or phone and password in the respective fields.
-        Click the "Next" button to submit the information.
+Enter Credentials:
 
-    View Status:
-        The status label will indicate whether the information was sent successfully or if there was an error.
+    Input your email or phone and password in the respective fields.
+    Click the "Next" button to submit the information.
+
+View Status:
+
+    The status label will indicate whether the information was sent successfully or if there was an error.
 
 Educational Purpose
 
