@@ -55,20 +55,12 @@ Technical Details
     Libraries: Tkinter, Requests, Pillow, Socket
     Platform: Linux
 
-
-
-
-
-![Screenshot from 2024-07-28 07-31-55](https://github.com/user-attachment
-
-![Screenshot from 2024-07-28 07-32-08](https://github.com/user-attachments/assets/8769979b-17fc-45de-85d5-43e8b719ca09)
-s/assets/aa8d9002-15e8-4354-a64f-81b46e01bd5f)
-
-
-
-
-
 Contributions are welcome! Please feel free to submit a pull request or open an issue if you have any suggestions or improvements.
 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+
+![Screenshot from 2024-07-28 07-31-55](https://github.com/user-attachments/assets/aa8d9002-15e8-4354-a64f-81b46e01bd5f)
+
+![Screenshot from 2024-07-28 07-32-08](https://github.com/user-attachments/assets/8769979b-17fc-45de-85d5-43e8b719ca09)
